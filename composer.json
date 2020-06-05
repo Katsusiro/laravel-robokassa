@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/support": "~5.5",
+        "illuminate/support": "~7.0",
         "lexty/robokassa": "dev-master"
     },
     "require-dev": {
